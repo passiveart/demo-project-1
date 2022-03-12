@@ -1,0 +1,69 @@
+.just-con{
+    justify-content: center;
+}
+.align{
+    align-items: center;
+}
+.just-spac{
+    justify-content: space-between;
+}
+.flex-1{
+    flex-direction: column;
+}
+.flex{
+    display: flex;
+}
+.items-al{
+    align-items: center;
+}
+.txt-al{
+    text-align: center;
+}
+.max-wid{
+    max-width: 1150px;
+    margin: 0 auto;
+}
+.max-wid-fm{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.font-wt{
+    font-weight: 400;
+}
+.p{
+    font-size: 16px;
+}
+.font-wh{
+    color: white;
+}
+
+.gap{
+    margin-bottom: 0.5rem;
+}
+.pri{
+    margin-top: 0.8rem;
+}
+.ft-35{
+    font-size: 35px;
+}
+.pa-t{
+    padding-top: 2rem;
+}
+a{
+    text-decoration: none;
+}
+.h3{
+    margin-bottom: 2px;
+}
+.max-fl{
+    max-width: 100%;
+}
+.cl-bg{
+    color: var(--btn);
+}
+.pa-b{
+    padding-bottom: 3rem;
+}
+.pa-l{
+    padding: 0.8rem;
+}
