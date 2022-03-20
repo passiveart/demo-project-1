@@ -155,11 +155,11 @@ nav .right a{
     padding-bottom: 5rem;
 }
 
-section .hero-img img{
+.hero-img img{
     margin-top: 5rem;
     margin-bottom: 1rem;
    align-items: center;
-   width: 260px;
+   width: 400px;
    background: white;
    border-radius: 50%;
    -webkit-border-radius: 50%;
@@ -614,6 +614,9 @@ input[type=reset] {
     .art-1 img{
         margin-bottom: 2rem;
         margin-top: 2rem;
+    }
+    .hero-img img{
+        width: 100px;
     }
     
 }
